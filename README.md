@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋, I'm Madhan Raj M
 
-<!--
-**madhanraj7603/madhanraj7603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate
+💻 Aspiring Software Developer
+🌱 Currently learning and improving my development skills
 
-Here are some ideas to get you started:
+🛠️ Skills
+Python
+Asp.net
+C#
+SQL / MySQL
+HTML5
+CSS3
+JavaScript
+Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+Local Shifting and Laundry Management System
+Jewellery Shop Management System
+
+🎯 Currently
+Practicing SQL & DSA
+Building web development projects
+Looking for entry-level Software Developer opportunities
+
+📫 Connect with me
+GitHub: https://github.com/madhanraj7603
+LinkedIn: www.linkedin.com/in/madhanraj-m33
