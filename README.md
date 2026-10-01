@@ -1,26 +1,59 @@
-Madhan Raj M
+# Madhan Raj M
 
-MCA Graduate | Aspiring Software Developer
+**MCA Graduate | Aspiring Software Developer**
 
-About
+---
 
-MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, Bootstrap, and React.js. Interested in software development and web application development. Currently improving my programming, SQL, and problem-solving skills.
+## About Me
 
-Technical Skills
-Programming: Python, C#
-Database: SQL, MySQL
-Web: HTML5, CSS3, JavaScript, Bootstrap
-Tools: Git, GitHub
+MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, Bootstrap, and React.js. Interested in software development and web application development. Currently improving my programming and SQL skills.
 
-Projects
-1.Local Shifting and Laundry Management System
+## Technical Skills
+
+**Programming Languages**
+- Python
+- C#
+
+**Database**
+- SQL
+- MySQL
+
+**Web Technologies**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+**Frontend**
+- React.js
+
+**Tools**
+- Git
+- GitHub
+
+## Projects
+
+### Local Shifting and Laundry Management System
 
 A web-based application developed to manage local shifting and laundry-related services.
 
-2.Jewellery Shop Management System
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, Python, SQL
 
-A web-based application for managing jewellery shop operations and information.
+### Jewellery Shop Management System
 
-Contact
-GitHub: https://github.com/madhanraj7603
-LinkedIn: https://www.linkedin.com/in/madhanraj-m33
+A web-based application developed to manage jewellery shop operations and information.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, Python, SQL
+
+## Currently Learning
+
+- Data Structures and Algorithms
+- SQL
+- Web Development
+- Software Development Practices
+
+## Contact
+
+**GitHub:** [github.com/madhanraj7603](https://github.com/madhanraj7603)
+
+**LinkedIn:** [linkedin.com/in/madhanraj-m33](https://www.linkedin.com/in/madhanraj-m33)
