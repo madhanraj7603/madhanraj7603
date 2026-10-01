@@ -6,7 +6,7 @@
 
 ## About Me
 
-MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, Bootstrap, and React.js. Interested in software development and web application development. Currently improving my programming and SQL skills.
+MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, and Bootstrap. Interested in software development and web application development. Currently improving my programming and SQL skills.
 
 ## Technical Skills
 
@@ -15,7 +15,7 @@ MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, Bootstrap
 - C#
 
 **Database**
-- SQL
+- SQL server
 - MySQL
 
 **Web Technologies**
@@ -23,9 +23,6 @@ MCA graduate with knowledge of Python, C#, SQL, HTML, CSS, JavaScript, Bootstrap
 - CSS3
 - JavaScript
 - Bootstrap
-
-**Frontend**
-- React.js
 
 **Tools**
 - Git
@@ -43,7 +40,7 @@ A web-based application developed to manage local shifting and laundry-related s
 
 A web-based application developed to manage jewellery shop operations and information.
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap, Python, SQL
+**Technologies:** HTML, CSS, JavaScript, Firebase 
 
 ## Currently Learning
 
